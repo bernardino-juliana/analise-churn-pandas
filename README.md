@@ -36,28 +36,39 @@ analise-churn-pandas/
 
 
 ---
-
 ## 📊 Resultados Chave da Análise
 
 A análise revelou importantes correlações entre variáveis comportamentais e a taxa de *churn*. Abaixo, destacamos os principais achados visuais:
 
-### 1. Distribuição Geral de Churn
+### 1. Distribuição de Churn (Contagem)
 
-Este gráfico ilustra a proporção de clientes que cancelaram (Churn) versus os que permaneceram (Não Churn).
+Este gráfico ilustra a contagem absoluta de clientes que cancelaram (Churn) versus os que permaneceram (Não Churn).
+
+<img src="assets/Gráfico 1 - Distribuição de Churn.png" width="600" alt="Gráfico de barras mostrando a contagem de clientes Churn e Não Churn.">
+
+### 2. Distribuição de Churn (Percentual)
+
+Este gráfico ilustra a proporção percentual de clientes que cancelaram (Churn) versus os que permaneceram (Não Churn).
 
 <img src="assets/Gráfico 2 - Distribuição de Churn %.png" width="600" alt="Gráfico de pizza mostrando a porcentagem de clientes Churn e Não Churn.">
 
-### 2. Churn por Nível de Satisfação
+### 3. Churn por Nível de Satisfação
 
 A satisfação do cliente é um fator crítico. Observamos uma clara tendência de aumento do *churn* em clientes com níveis de satisfação mais baixos.
 
 <img src="assets/Gráfico 3 - Churn por Nível de Satisfação.png" width="600" alt="Gráfico de barras mostrando a taxa de Churn por diferentes níveis de satisfação do cliente.">
 
-### 3. Análise Geográfica: Estados com Maior Churn
+### 4. Análise Geográfica: Estados com Maior Churn
 
 A distribuição geográfica do *churn* sugere que fatores regionais ou operacionais podem estar influenciando a retenção em certas áreas.
 
 <img src="assets/Gráfico 4 - Estados com Maior Churn.png" width="600" alt="Gráfico de barras mostrando os estados com as maiores taxas de Churn.">
+
+### 5. Churn por Quantidade de Tickets
+
+Este gráfico demonstra a correlação entre o volume de tickets de suporte abertos e a probabilidade de Churn.
+
+<img src="assets/Gráfico 5 - Churn por Quantidade de Tickets.png" width="600" alt="Gráfico mostrando a relação entre a quantidade de tickets de suporte e a taxa de Churn.">
 
 ---
 
