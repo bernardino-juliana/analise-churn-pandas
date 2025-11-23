@@ -49,7 +49,7 @@ Este gráfico ilustra a contagem absoluta de clientes que cancelaram (Churn) ver
 
 Este gráfico ilustra a proporção percentual de clientes que cancelaram (Churn) versus os que permaneceram (Não Churn).
 
-<img src="assets/Gráfico 2 - Distribuição de Churn %.png" width="600" alt="Gráfico de pizza mostrando a porcentagem de clientes Churn e Não Churn.">
+<img src="assets/Gráfico%202%20-%20Distribuição%20de%20Churn%20%25.png" width="600" alt="Gráfico de pizza mostrando a porcentagem de clientes Churn e Não Churn.">
 
 ### 3. Churn por Nível de Satisfação
 
