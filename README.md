@@ -34,7 +34,7 @@ analise-churn-pandas/
 │
 ├── Projeto_1_Analise_de_Churn.ipynb  # Notebook principal com toda a análise e código.
 └── README.md
-
+```
 ---
 ## 📊 Resultados Chave da Análise
 
