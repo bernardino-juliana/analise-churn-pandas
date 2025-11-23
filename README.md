@@ -22,7 +22,7 @@ O objetivo principal é **identificar padrões de comportamento**, **entender as
 ## 📁 Estrutura do Projeto
 
 O repositório está organizado da seguinte forma:
-analise-churn-pandas/
+```analise-churn-pandas/
 │
 ├── assets/
 │   ├── Gráfico 1 - Distribuição de Churn.png
@@ -32,7 +32,7 @@ analise-churn-pandas/
 │   └── Gráfico 5 - Churn por Quantidade de Tickets.png
 │
 ├── Projeto_1_Analise_de_Churn.ipynb  # Notebook principal com toda a análise e código.
-└── README.md
+└── README.md```
 
 ---
 ## 📊 Resultados Chave da Análise
